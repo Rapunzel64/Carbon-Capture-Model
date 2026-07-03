@@ -1,9 +1,5 @@
 """
 Carbon CO2 Emission Prediction – Streamlit App
-===============================================
-Run with:  streamlit run app.py
-
-Requires: carbon_capture_model.pkl (generate with train_model.py)
 """
 
 import streamlit as st
